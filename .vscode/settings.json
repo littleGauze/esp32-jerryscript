@@ -1,0 +1,9 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.port": "/dev/cu.Bluetooth-Incoming-Port",
+  "files.associations": {
+    "engine.h": "c",
+    "jerryscript-port.h": "c",
+    "freertos.h": "c"
+  }
+}
